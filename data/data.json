@@ -1,8 +1,8 @@
 {
     "name": "Parrot Token",
     "description": "This is parrot NFT, Buy it now",
-    "image": "",
-    "external_URL": "",
+    "image": " https://mohammedrizwann123.github.io/ParrotNFT/images/Parrot-1.png",
+    "external_URL": " https://mohammedrizwann123.github.io/ParrotNFT/",
     "attributes": [
         {
             "trait_type": "Artifact",
